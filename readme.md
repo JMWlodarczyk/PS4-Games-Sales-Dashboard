@@ -1,4 +1,4 @@
-# PS4-Games-Sales-DashBoard
+# PS4-Games-Sales-Dashboard
 
 #### -- Project Status: [Completed]
 
@@ -41,21 +41,21 @@
 
 ## About the project
 
-### Puropse
+![](images/Page_Second.png)
 
-The purpose of this dashboard is to present a game sales change for the Playstation 4 platform and explore what are the most popular genres and games of all time and per certain year. Additionaly I added the decomopsition tree visual, so the user could see the exact connections beetwen publishers, genres and games.
+### Purpose
+
+The purpose of this dashboard is to present a game sales change for the Playstation 4 platform and explore what are the most popular genres and games of all time and per certain year. Additionally, I added the decomposition tree visual, so the user could see the exact connections between publishers, genres and games.
 
 ### Value
 
-A potential value to this type of the dashboard is an estimation of what type genres and games bring teh biggest value, how trends during the years do change and what the cutsomers are looking after.
+A potential value to this type of dashboard is an estimation of what type genres and games bring the biggest value, how trends during the years do change and what the customers are looking after.
 
 ### Improvements
 
-Nice addition would be a comparision beetween different platfoms and a rating of the games, to have more comprehsive view on the mareket.
+A nice addition would be a comparison between different platforms and a rating of the games, to have a more comprehensive view of the market.
 
-![](images/Page_Second.png)
-
-Detailed explanation of used visuals below.
+A detailed explanation of the used visuals you can find below.
 
 ### Methods Used
 
@@ -72,45 +72,11 @@ Detailed explanation of used visuals below.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
-
-<!-- USAGE EXAMPLES -->
-
-## Usage
+## Usage of dashboard
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ROADMAP -->
-
-## Roadmap
-
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-  - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- CONTACT -->
 
 ## Contact
 
@@ -119,30 +85,3 @@ Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_
 Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- ACKNOWLEDGMENTS -->
-
-## Acknowledgments
-
-- []()
-- []()
-- []()
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
-[forks-url]: https://github.com/github_username/repo_name/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/github_username/repo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
-[product-screenshot]: images/screenshot.png
