@@ -1,5 +1,7 @@
 # PS4-Games-Sales-DashBoard
 
+#### -- Project Status: [Completed]
+
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
@@ -11,7 +13,7 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 
-<!-- TABLE OF CONTENTS -->
+<!-- TABLE OF CONTENTS
 <details>
   <summary>Table of Contents</summary>
   <ol>
@@ -35,49 +37,38 @@
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
   </ol>
-</details>
+</details>-->
 
-#### -- Project Status: [Active, On-Hold, Completed]
+## About the project
 
-## Project Intro/Objective
+### Puropse
 
-The purpose of this project is **\_\_\_\_**. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this dashboard is to present a game sales change for the Playstation 4 platform and explore what are the most popular genres and games of all time and per certain year. Additionaly I added the decomopsition tree visual, so the user could see the exact connections beetwen publishers, genres and games.
 
-### Partner
+### Value
 
-- [Name of Partner organization/Government department etc..]
-- Website for partner
-- Partner contact: [Name of Contact], [slack handle of contact if any]
-- If you do not have a partner leave this section out
+A potential value to this type of the dashboard is an estimation of what type genres and games bring teh biggest value, how trends during the years do change and what the cutsomers are looking after.
+
+### Improvements
+
+Nice addition would be a comparision beetween different platfoms and a rating of the games, to have more comprehsive view on the mareket.
+
+![](images/Page_Second.png)
+
+Detailed explanation of used visuals below.
 
 ### Methods Used
 
-- Inferential Statistics
-- Machine Learning
+- Statistics
 - Data Visualization
-- Predictive Modeling
-- etc.
-
-<!-- ABOUT THE PROJECT -->
-
-## About The Project
-
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Dashboard for game sales for Playstation 4.
+- DAX
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
-- [Next.js](https://nextjs.org/)
-- [React.js](https://reactjs.org/)
-- [Vue.js](https://vuejs.org/)
-- [Angular](https://angular.io/)
-- [Svelte](https://svelte.dev/)
-- [Laravel](https://laravel.com)
-- [Bootstrap](https://getbootstrap.com)
-- [JQuery](https://jquery.com)
+- [PowerBi](https://powerbi.microsoft.com/)
+- [DAX](https://docs.microsoft.com/en-us/dax/)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
