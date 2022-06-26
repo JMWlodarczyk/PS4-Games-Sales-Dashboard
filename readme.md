@@ -1,4 +1,4 @@
-# PS4-Games-Sales-Dashboard
+# PS4 Games Sales Dashboard
 
 #### -- Project Status: [Completed]
 
@@ -41,7 +41,9 @@
 
 ## About the project
 
-![](images/Page_Second.png)
+<hr>
+
+![](images/PS4_Game_Sales_Thumbnail.jpg)
 
 ### Purpose
 
@@ -55,33 +57,70 @@ A potential value to this type of dashboard is an estimation of what type genres
 
 A nice addition would be a comparison between different platforms and a rating of the games, to have a more comprehensive view of the market.
 
-A detailed explanation of the used visuals you can find below.
-
 ### Methods Used
 
 - Statistics
 - Data Visualization
 - DAX
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 ### Built With
 
 - [PowerBi](https://powerbi.microsoft.com/)
 - [DAX](https://docs.microsoft.com/en-us/dax/)
 
+A detailed explanation of the used visuals you can find below.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Usage of dashboard
+## Usage of the dashboard
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+<hr>
+Dashboard consists of two pages.
+
+|      PS4 Sales Visuals      |     Decomposition Tree     |
+| :-------------------------: | :------------------------: |
+| ![](images/Page_Second.png) | ![](images/Third_Page.png) |
+
+Menu on the top takes to different pages. Slicer Year allows to put Year filter on visuals.
+![](images/Menu.png)
+
+### PS4 Sales Visuals
+
+<hr>
+
+Global sales and its change over a period of time.
+
+<img src="images/Total%20Global%20Sales.png" width=50% height=50% />
+
+Global sales per location.
+
+<img src="images/Sales%20in%20dif%20locations.png" width=50% height=50% />
+
+Top 5 most popular genres of all time.
+
+<img src="images/Genres.png" width=50% height=50% />
+
+It is possible to swap between two visuals with the button above them.
+
+The most popular game of the year.
+
+<img src="images/Top%20Games.png" width=50% height=50% />
+
+The most popular games of all time.
+
+<img src="images/Highest%20sales.png" width=50% height=50% />
+
+### Decomposition tree
+
+Tree visual showing connections between global sales, publishers, genres and games.
+<img src="images/Tree.png" width=50% height=50% />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Joanna Wlodarczyk - [@linkedin](https://www.linkedin.com/in/joannawlodarczyk/)
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/JMWlodarczyk/PS4-Games-Sales-Dashboard](https://github.com/JMWlodarczyk/PS4-Games-Sales-Dashboard)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
